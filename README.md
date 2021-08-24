@@ -16,3 +16,5 @@ Well...
 So where do we go from here?
 1. Need help to find better approaches to solve locallity while ALSO keeping fast lookups. So essentially, we want to translate strings to integers 
 2. Generally, remove all catches from the solution and publish as a viable solution to EXTREEEEEEMLY fast key-value lookup
+
+[](./perhashmap.png)
